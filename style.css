@@ -1,6 +1,120 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .color{
-    color: orange;
+    color: salmon;
 }
+h1{
+    font-size: 50px;
+}
+.border{
+   
+    border-left: 4px solid;
+    border-color: blue;
+    border-image: linear-gradient(tomato);
+    border-image-slice: 1;
+    padding-inline: 15px;
+    
+}
+p{
+    font-size: 15px;
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 5px 15px 5px 15px;
+    color: white;
+    font-weight: 900;
+}
+.flexible{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 215px; 
+}
+.half-width img{
+width: 70%;
+}
+.icon img{
+    width: 30%;
+}
+#mission{
+text-align: center;
+   
+}
+.icon{
+   box-align: center;
+   border:  snow;  
+   border-radius: 15px;
+   height: 400px;
+   width: 350px;
+   margin-left: 80px;
+   padding: 30px;   
+}
+#first-box{
+margin-left: 210px;
+background-color: rgb(177, 187, 202);
+}
+
+#second-box{   
+    background-color:wheat;
+}
+
+#third-box{    
+    background-color:rgb(62, 158, 187);
+}
+#develop p{
+  margin-right: 200px;
+}
+.picture{
+    width: 40%;
+    margin-left: 215px;
+}
+.picture img{
+width: 80%;
+  
+    margin-top: 100px;
+}
+
+#develop{
+  margin-right: 40px; 
+}
+.fo{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 100px;
+    
+    padding-top: 70px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+}
+
+h2{
+    font-size: 20px;
+}
+h4{
+   font-size: 15px;
+}
+#do{
+    color: chocolate;
+}
+.pict{
+    margin-left: 215px; 
+    padding-right: 250px;
+    margin-top: 50px;
+}
+
+.pict img{
+    width: 480px;
+    
+    }
+    
+    
